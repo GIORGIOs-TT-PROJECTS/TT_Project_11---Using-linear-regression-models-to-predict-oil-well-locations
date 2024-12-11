@@ -1,4 +1,4 @@
-# IDENTIFICATION OF TRAVEL SHARING PATTERNS OF THE ZUBER COMPANY
+# Using linear regression models to predict oil well locations with the highest profit margin
 
 ## PROJECT OVERVIEW
 
